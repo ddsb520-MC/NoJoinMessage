@@ -1,0 +1,6 @@
+name: NoJoinMessage
+version: '1.0'
+main: org.ddsb520.nojoinmessage.NoJoinMessage
+api-version: '1.20'
+authors: [ddsb520]
+description: ignore join/quit message
