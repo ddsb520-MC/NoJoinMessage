@@ -10,13 +10,13 @@ public class NoJoinMessage extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        getLogger().info("NoJoinMessage已启用！");
+        getLogger().info("plugin enabled");
         getServer().getPluginManager().registerEvents(this, this);
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("NoJoinMessage已禁用！");
+        getLogger().info("plugin disabled");
     }
 
     @EventHandler
