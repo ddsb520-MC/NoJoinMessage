@@ -1,7 +1,7 @@
 # NoJoinMessage
 <p align="center">
   <a href="https://github.com/ddsb520/NoJoinMessage/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="128" height="128">
   </a>
   
 * 一个非常精简的插件，屏蔽玩家的加入/退出消息，如果你不喜欢玩家的加入/退出消息占用聊天栏，此插件是你有效的解决办法
