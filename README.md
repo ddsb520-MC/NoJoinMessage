@@ -1,9 +1,3 @@
-# NoJoinMessage
-<p align="center">
-  <a href="https://github.com/ddsb520/NoJoinMessage/">
-    <img src="images/logo.png" alt="Logo" width="128" height="128">
-  </a>
-
 # Introduce
 * A very small plugin to blocks players join/exit messages, if you don't like player join/exit messages in the chat bar, this plugin is very useful
 * We supports folia
